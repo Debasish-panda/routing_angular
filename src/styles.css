@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h2{
+    background-color: cyan;
+}
+.active{
+    background-color: blue;
+    color: white;
+}
+.home{
+    font-weight: bold;
+}
